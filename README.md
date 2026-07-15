@@ -1,6 +1,12 @@
 # ESP-MP3
 A mp3 player powered by an esp32.
 
+## Features
+ - Battery powered
+ - Mp3 playback
+ - Volume Controll
+ - Possibilty for simple apps and games
+
 ## Parts List
  - Esp32 development board
  - 0.96" OLED screen
